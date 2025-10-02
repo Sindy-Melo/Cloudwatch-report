@@ -9,9 +9,9 @@ Este repositorio contiene el notebook `cloudwatch-report.ipynb` que analiza y ge
 
 #Pasos para crear el profile
 1. aws configure
- AWS Access Key ID [****************MEYY]:
- AWS Secret Access Key [****************oNR9]:
- Default region name [None]:
- Default output format [None]:
+- AWS Access Key ID [****************MEYY]:
+- AWS Secret Access Key [****************oNR9]:
+- Default region name [None]:
+- Default output format [None]:
 
 2. aws configure list 
